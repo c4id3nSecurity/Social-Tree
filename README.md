@@ -1,4 +1,4 @@
-# Social Tree App(https://www.figma.com/file/rDyVnjc1YAKg3cxeH34dGV/Social-Tree-%E2%80%A2-Desafio-Discover-(Community)?type=design&node-id=6881-7&mode=design&t=1SLfBrwlXva6jdoW-0)
+# [Social Tree App](https://www.figma.com/file/rDyVnjc1YAKg3cxeH34dGV/Social-Tree-%E2%80%A2-Desafio-Discover-(Community)?type=design&node-id=6881-7&mode=design&t=1SLfBrwlXva6jdoW-0)
 
 ## What's next? How do I start the project?
 
